@@ -1,3 +1,6 @@
+# Eleventy output
+_site/
+
 # Logs
 logs
 *.log
